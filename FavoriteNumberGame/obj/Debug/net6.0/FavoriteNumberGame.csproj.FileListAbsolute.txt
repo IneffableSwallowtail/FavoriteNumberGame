@@ -1,0 +1,15 @@
+C:\Users\ajmil\source\repos\FavoriteNumberGame\FavoriteNumberGame\bin\Debug\net6.0\FavoriteNumberGame.exe
+C:\Users\ajmil\source\repos\FavoriteNumberGame\FavoriteNumberGame\bin\Debug\net6.0\FavoriteNumberGame.deps.json
+C:\Users\ajmil\source\repos\FavoriteNumberGame\FavoriteNumberGame\bin\Debug\net6.0\FavoriteNumberGame.runtimeconfig.json
+C:\Users\ajmil\source\repos\FavoriteNumberGame\FavoriteNumberGame\bin\Debug\net6.0\FavoriteNumberGame.dll
+C:\Users\ajmil\source\repos\FavoriteNumberGame\FavoriteNumberGame\bin\Debug\net6.0\FavoriteNumberGame.pdb
+C:\Users\ajmil\source\repos\FavoriteNumberGame\FavoriteNumberGame\obj\Debug\net6.0\FavoriteNumberGame.csproj.AssemblyReference.cache
+C:\Users\ajmil\source\repos\FavoriteNumberGame\FavoriteNumberGame\obj\Debug\net6.0\FavoriteNumberGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajmil\source\repos\FavoriteNumberGame\FavoriteNumberGame\obj\Debug\net6.0\FavoriteNumberGame.AssemblyInfoInputs.cache
+C:\Users\ajmil\source\repos\FavoriteNumberGame\FavoriteNumberGame\obj\Debug\net6.0\FavoriteNumberGame.AssemblyInfo.cs
+C:\Users\ajmil\source\repos\FavoriteNumberGame\FavoriteNumberGame\obj\Debug\net6.0\FavoriteNumberGame.csproj.CoreCompileInputs.cache
+C:\Users\ajmil\source\repos\FavoriteNumberGame\FavoriteNumberGame\obj\Debug\net6.0\FavoriteNumberGame.dll
+C:\Users\ajmil\source\repos\FavoriteNumberGame\FavoriteNumberGame\obj\Debug\net6.0\refint\FavoriteNumberGame.dll
+C:\Users\ajmil\source\repos\FavoriteNumberGame\FavoriteNumberGame\obj\Debug\net6.0\FavoriteNumberGame.pdb
+C:\Users\ajmil\source\repos\FavoriteNumberGame\FavoriteNumberGame\obj\Debug\net6.0\FavoriteNumberGame.genruntimeconfig.cache
+C:\Users\ajmil\source\repos\FavoriteNumberGame\FavoriteNumberGame\obj\Debug\net6.0\ref\FavoriteNumberGame.dll
